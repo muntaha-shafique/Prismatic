@@ -3,7 +3,7 @@
 A modern creative web experience built as a frontend practice project. **Prismatic** showcases a vibrant, visually engaging interface inspired by contemporary design trends, combining elegant layouts, responsive design, and interactive user experiences.
 
 The project was developed to explore modern frontend development techniques while creating a polished, high-end interface that emphasizes aesthetics, usability, and performance.
-
+ 
 --- 
 
 ## 🌐 Live Demo
