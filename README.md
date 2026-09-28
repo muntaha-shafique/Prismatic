@@ -7,7 +7,7 @@ The project was developed to explore modern frontend development techniques whil
 --- 
 
 ## 🌐 Live Demo
-
+ 
 **Website:**
 https://sheikhsiddique722-sketch.github.io/Prismatic/
 
