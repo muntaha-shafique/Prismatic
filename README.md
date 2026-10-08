@@ -4,7 +4,7 @@ A modern creative web experience built as a frontend practice project. **Prismat
 
 The project was developed to explore modern frontend development techniques while creating a polished, high-end interface that emphasizes aesthetics, usability, and performance.
  
---- 
+---  
 
 ## 🌐 Live Demo
  
